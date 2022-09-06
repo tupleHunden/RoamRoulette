@@ -10,7 +10,7 @@ tank_weapons = [
     "Great Hammer",
     "Tombhammer",
     "Forge Hammers",
-    "Grovekeeper"
+    "Grovekeeper",
     "Oathkeepers",
     "Hammer of Justice",
     "Grailseeker",
